@@ -3,10 +3,6 @@
     {
       "name": "Nanit",
       "maintainer": "NanitRobots",
-      "email": "Sam4uk.site@gmail.com",
-      "help": {
-        "online": "https://sam4uk.site"
-      },
       "tools": [
         {
           "name": "avr-gcc",
@@ -65,8 +61,8 @@
           "help": {
             "online": "https://sam4uk.site"
           },
-          "url": "https://github.com/Sam4uk/NanitBoards/raw/develop/Nanit.zip",
-          "archiveFileName": "Nanit.zip",
+          "url": "https://nanitrobot.github.io/Nanit_Boards.zip",
+          "archiveFileName": "Nanit_Boards.zip",
           "boards": [
             {
               "name": "Nanit Discovery 2.0"
