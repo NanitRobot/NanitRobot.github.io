@@ -1,0 +1,27 @@
+
+#############################################################
+#                                                           #
+# @file:    programmers.txt                                 #
+# @author:  Sam4uk<sam4uk.site@gmail.com>                   #
+# @date:    28 Feb 2023                                     #
+# @licence: MIT                                             #
+#                                                           #
+############################################################# 
+
+nanit.name=NanitBuildin
+nanit.communication=usb
+nanit.protocol=wiring
+nanit.program.speed=115200
+nanit.program.protocol=stk500v2
+nanit.program.tool=avrdude
+nanit.program.tool.default=avrdude
+nanit.program.extra_params=-P{serial.port} -b{program.speed} -D
+
+
+# avrispmkii.name=AVRISP mkII
+# avrispmkii.communication=usb
+# avrispmkii.protocol=stk500v2
+# avrispmkii.program.protocol=stk500v2
+# avrispmkii.program.tool=avrdude
+# avrispmkii.program.tool.default=avrdude
+# avrispmkii.program.extra_params=-Pusb
