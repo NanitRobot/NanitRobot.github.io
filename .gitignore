@@ -43,3 +43,5 @@
 *.exe
 *.out
 *.app
+
+.hugo_build.lock
