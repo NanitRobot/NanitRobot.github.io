@@ -1,0 +1,3 @@
+[submodule "Nanit/libraries/NanitLib"]
+	path = Nanit/libraries/NanitLib
+	url = https://github.com/NanitRobot/NanitLib.git
