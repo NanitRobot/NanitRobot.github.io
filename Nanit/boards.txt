@@ -39,7 +39,7 @@ nanit_discovery.bootloader.unlock_bits=0x3F
 nanit_discovery.bootloader.lock_bits=0x0F
 
 nanit_discovery.build.f_cpu=16000000L
-nanit_discovery.build.core=arduino
+nanit_discovery.build.core=MegaCore
 nanit_discovery.build.variant=Nanit
 nanit_discovery.build.mcu=atmega2560
 nanit_discovery.build.board=AVR_NANIT_DISCOVERY
@@ -74,7 +74,7 @@ nanit_smart_home.bootloader.unlock_bits=0x3F
 nanit_smart_home.bootloader.lock_bits=0x0F
 
 nanit_smart_home.build.f_cpu=16000000L
-nanit_smart_home.build.core=arduino
+nanit_smart_home.build.core=MegaCore
 nanit_smart_home.build.variant=Nanit
 nanit_smart_home.build.mcu=atmega2560
 nanit_smart_home.build.board=AVR_NANIT_SMART_HOME
